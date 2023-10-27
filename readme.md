@@ -1,13 +1,13 @@
 **RFID BASED ACCESS CONTROL SYSTEMS**
 
 **How to?**\
-  Setup your Arduino IDE\
-  Setup Arduino board and RFID reader conenctions as per the pin layout.\
-  Scan RFID tags by running the 'DumpInfo' code from the MFRCC522 library (File->Examples)\
-  [The library is found here: https://github.com/miguelbalboa/rfid]\
-  Then run the code by adding ID of your card in it.\
-  Observe output in the serial monitor.\
-  And test.
+  -Setup your Arduino IDE\
+  -Setup Arduino board and RFID reader conenctions as per the pin layout.\
+  -Scan RFID tags by running the 'DumpInfo' code from the MFRCC522 library (File->Examples)\
+    -[The library is found here: https://github.com/miguelbalboa/rfid]\
+  -Then run the code by adding ID of your card in it.\
+  -Observe output in the serial monitor.\
+  -And test.
 
 **Troubleshoot**\
   In case of loose connections warning on the serial monitor, try checking the pin connections. And if it persists check your breadboard.\
